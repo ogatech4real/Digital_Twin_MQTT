@@ -185,7 +185,7 @@ MIT License.
 
 <div align="left">
 
-<img width="600" src="https://github.com/user-attachments/assets/d9cf09db-23e3-43fe-b90d-5b6725c89e24" alt="Author Signature"/>
+Adewale Ogabi (hello@adewaleogabi.info), M. Shahwaiz Afaqui, Geetika Aggarwal, Palat M. Ushasree, Veena M. Narayanan<img width="1424" height="62" alt="image" src="https://github.com/user-attachments/assets/bf3a3447-f9e6-464e-8f53-2cd2f1817759" />
 
 **School of Computing, Engineering and Digital Technologies**
 Teesside University, UK
