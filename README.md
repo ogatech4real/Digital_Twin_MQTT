@@ -126,123 +126,6 @@ Integrated machine learning pipeline:
 CSV Logging → ML Training (Python) → Random Forest Model → FastAPI Inference → Node-RED Dashboard
 ```
 
----
-
-# 📦 **Repository Contents**
-
-```
-📁 digital-twin-mqtt-ai/
-│
-├── arduino/
-│   └── virtual_sensor.ino            # Full simulation firmware for Uno R4 WiFi
-│
-├── node-red/
-│   ├── flows.json                    # Complete AI-enabled Node-RED flow
-│   └── dashboard_screenshots/
-│
-├── fastapi/
-│   ├── serve_model.py                # FastAPI inference server
-│   ├── train_model.py                # ML training pipeline
-│   ├── fan_fault_classifier.joblib   # Trained model (optional)
-│
-├── data/
-│   └── fan_digital_twin_log.csv      # Sample dataset
-│
-├── docs/
-│   ├── architecture_diagram.png
-│   ├── methodology_overview.png
-│   └── system_design_block.png
-│
-└── README.md
-```
-
----
-
-# ⚙️ **Installation & Quick Start**
-
-## 🛰️ 1. Clone the Repository
-
-```bash
-git clone https://github.com/ogatech4real/digital-twin-mqtt-ai.git
-cd digital-twin-mqtt-ai
-```
-
----
-
-## 🔧 2. Flash Arduino UNO R4 WiFi
-
-Upload:
-
-```
-arduino/virtual_sensor.ino
-```
-
-Configure WiFi + MQTT IP.
-
----
-
-## 🐍 3. Install Python Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 4. Start the AI Model Server
-
-```bash
-uvicorn serve_model:app --host 0.0.0.0 --port 8000
-```
-
-Test API:
-
-```
-http://localhost:8000/docs
-```
-
----
-
-## 📡 5. Start Mosquitto Broker
-
-```bash
-sudo systemctl start mosquitto
-```
-
----
-
-## 🟥 6. Launch Node-RED
-
-```bash
-node-red
-```
-
-Import `flows.json`
-
-Dashboard:
-
-```
-http://localhost:1880/ui
-```
-
----
-
-# 🧠 **Training Your Own AI Model**
-
-```bash
-python fastapi/train_model.py
-```
-
-Produces:
-
-* Clean dataset
-* Random Forest training results
-* Confusion matrix
-* Saved model:
-
-```
-fan_fault_classifier.joblib
-```
 
 ---
 
@@ -261,10 +144,14 @@ fan_fault_classifier.joblib
 
 ---
 
-# 🎥 Demo Video
+# 🎥 POSTER PRESENTATION
 
 ```
-https://youtu.be/JJkGhe9N9eg?si=Rr-97aHbw2psryBC
+<div align="center">
+
+<img src="Issmat DT Poster.png" width="750" alt="Poster Presentation">
+
+</div>
 ```
 
 ---
@@ -296,7 +183,7 @@ MIT License.
 
 # 👨‍💻 **Author**
 
-<div align="center">
+<div align="left">
 
 <img width="600" src="https://github.com/user-attachments/assets/d9cf09db-23e3-43fe-b90d-5b6725c89e24" alt="Author Signature"/>
 
