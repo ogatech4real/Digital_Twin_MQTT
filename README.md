@@ -14,7 +14,7 @@ A low-cost, open-source framework combining **IoT**, **MQTT**, **Node-RED**, **F
 
 ### 🖼️ **Architecture Diagram**
 
-<img src="DT Demo.jpg" width="650">
+<img src="DT Architecture.png" width="650">
 
 </div>
 
