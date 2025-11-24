@@ -7,8 +7,6 @@ A low-cost, open-source framework combining **IoT**, **MQTT**, **Node-RED**, **F
   <img src="DT Demo.jpg" width="700">
 </a>
 
-<div align="center">
-
 ---
 
 # 🚀 **Overview**
