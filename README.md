@@ -3,11 +3,14 @@
 A low-cost, open-source framework combining **IoT**, **MQTT**, **Node-RED**, **FastAPI**, and **Machine Learning** to create a real-time **AI-driven Digital Twin** for a fan-driven cooling process.
 
 ---
+
+<div align="center">
+  
 <a href="https://youtu.be/JJkGhe9N9eg?si=Rr-97aHbw2psryBC">
   <img src="DT Demo.jpg" width="700">
 </a>
 
----
+
 
 # 🚀 **Overview**
 
