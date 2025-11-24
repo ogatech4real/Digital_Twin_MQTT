@@ -1,7 +1,3 @@
-# Digital_Twin_MQTT
-A low-cost, open-source framework integrating AI, IoT, and digital twin technologies for sustainable manufacturing
-
-
 # 🌟 **AI-Enabled Digital Twin Framework for SME Industrial Systems**
 
 A low-cost, open-source framework combining **IoT**, **MQTT**, **Node-RED**, **FastAPI**, and **Machine Learning** to create a real-time **AI-driven Digital Twin** for a fan-driven cooling process.
@@ -10,7 +6,7 @@ A low-cost, open-source framework combining **IoT**, **MQTT**, **Node-RED**, **F
 
 <div align="center">
 
-### 🎥 **[Watch Demo Video](YOUR_VIDEO_LINK_HERE)**
+### 🎥 **[Watch Demo Video]([(https://youtu.be/JJkGhe9N9eg?si=Rr-97aHbw2psryBC)])**
 
 ### 🖼️ **Architecture Diagram**
 
@@ -130,15 +126,6 @@ Pipeline:
 CSV Logging → ML Training (Python) → Random Forest Model → FastAPI Inference → Node-RED Dashboard
 ```
 
----
-
-# 💻 **Dashboard Preview**
-
-<div align="center">
-<img src="YOUR_DASHBOARD_IMAGE_LINK_HERE" width="800">
-</div>
-
----
 
 # 📦 **Repository Contents**
 
@@ -175,7 +162,7 @@ CSV Logging → ML Training (Python) → Random Forest Model → FastAPI Inferen
 ## 🛰️ 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/digital-twin-mqtt-ai.git
+git clone https://github.com/ogatech4real/digital-twin-mqtt-ai.git
 cd digital-twin-mqtt-ai
 ```
 
@@ -273,24 +260,12 @@ This will:
 
 ---
 
-# 🌎 **Live Demo (Optional)**
-
-🔗 Node-RED Dashboard:
-
-```
-https://your-public-url/ui
-```
-
-🔗 FastAPI Model Endpoint:
-
-```
-https://your-public-url/score/docs
-```
-
 🎥 Demo Video:
 
 ```
-YOUR_VIDEO_LINK_HERE
+
+https://youtu.be/JJkGhe9N9eg?si=Rr-97aHbw2psryBC
+
 ```
 
 ---
@@ -323,18 +298,11 @@ MIT License.
 
 # 👨‍💻 **Author**
 
-**Adewale Ogabi**
+**<img width="1424" height="62" alt="image" src="https://github.com/user-attachments/assets/d9cf09db-23e3-43fe-b90d-5b6725c89e24" />**
+
 School of Computing, Engineering and Digital Technologies
+
 Teesside University, UK
 
 ---
 
-If you want, I can also generate:
-
-✅ GitHub **banner image**
-✅ A **logo** for the project
-✅ A **project website** using GitHub Pages
-✅ A **PDF documentation** file
-✅ A **short video script** to record your demo
-
-Just tell me!
