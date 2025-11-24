@@ -146,13 +146,13 @@ CSV Logging → ML Training (Python) → Random Forest Model → FastAPI Inferen
 
 # 🎥 POSTER PRESENTATION
 
-```
+
 <div align="center">
 
 <img src="Issmat DT Poster.png" width="750" alt="Poster Presentation">
 
 </div>
-```
+
 
 ---
 
