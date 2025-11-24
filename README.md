@@ -14,7 +14,7 @@ A low-cost, open-source framework combining **IoT**, **MQTT**, **Node-RED**, **F
 
 ### 🖼️ **Architecture Diagram**
 
-<img src="YOUR_ARCHITECTURE_IMAGE_LINK_HERE" width="650">
+<img src="DT Demo.jpg" width="650">
 
 </div>
 
@@ -90,7 +90,7 @@ Interactive real-time dashboard with:
 
 <div align="center">
 
-<img src="YOUR_ARCHITECTURE_IMAGE_LINK_HERE" width="750">
+<img src="DT Demo.jpg" width="750">
 
 </div>
 
